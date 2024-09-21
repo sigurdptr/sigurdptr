@@ -1,9 +1,7 @@
 <h2>👤&nbsp; About Me</h2>
-<ul>
-  <li>👋 My name is Sigurd</li>
-  <li>📚 I'm currently studying cybersecurity</li>
-  <li>👨‍💻 I enjoy practicing pentesting</li>
-</ul>
+- 👋 My name is Sigurd
+- 📚 I'm currently studying cybersecurity
+- 👨‍💻 I enjoy practicing pentesting
 
 <h2>💻&nbsp;Personal Skills</h2>
 <div>
