@@ -1,7 +1,9 @@
 <h2>👤&nbsp; About Me</h2>
-- 👋 My name is Sigurd
-- 📚 I'm currently studying cybersecurity
-- 👨‍💻 I enjoy practicing pentesting
+ 
+ - 👋 My name is Sigurd
+ - 📚 I'm currently studying cybersecurity
+ - 👨‍💻 I enjoy practicing pentesting
+
 
 <h2>💻&nbsp;Personal Skills</h2>
 <div>
@@ -24,6 +26,7 @@
   <img src="assets/opencv.svg" style="height:75px">
   <img src="assets/numpy.svg" style="height:75px">
 </div>
+
 
 <h2>⚙️&nbsp;GitHub Analytics</h2>
 <div>
