@@ -32,11 +32,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sigurdptr&show_icons=true&theme=github_dark_dimmed">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sigurdptr&show_icons=true">
-    <img alt="user stats" src="" height="150px">
+    <img alt="user stats" src="" height="145px">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sigurdptr&layout=compact&theme=github_dark_dimmed">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sigurdptr&layout=compact">
-    <img alt="user stats" src="" height="150px">
+    <img alt="user stats" src="" height="145px">
   </picture>
 </div>
