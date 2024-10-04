@@ -31,14 +31,18 @@
 
 <h2>⚙️&nbsp;GitHub Analytics</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sigurdptr&show_icons=true&theme=github_dark_dimmed&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sigurdptr&show_icons=true&hide_border=true">
-    <img alt="user stats" src="" height="145px">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sigurdptr&layout=compact&theme=github_dark_dimmed&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sigurdptr&layout=compact&hide_border=true">
-    <img alt="user stats" src="" height="145px">
-  </picture>
+  <kbd>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sigurdptr&show_icons=true&theme=github_dark_dimmed&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sigurdptr&show_icons=true&hide_border=true">
+      <img alt="user stats" src="" height="145px">
+    </picture>
+  </kbd>
+  <kbd>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sigurdptr&layout=compact&theme=github_dark_dimmed&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sigurdptr&layout=compact&hide_border=true">
+      <img alt="user stats" src="" height="145px">
+    </picture>
+  </kbd>
 </p>
